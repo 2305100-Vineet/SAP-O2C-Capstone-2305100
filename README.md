@@ -6,7 +6,6 @@
 | **Roll Number** | 2305100 |
 | **Program** | SAP Data / Analytics Engineer |
 | **University** | Kalinga Institute of Industrial Technology (KIIT) |
-| **Submission** | April 21, 2026 |
 
 ---
 
