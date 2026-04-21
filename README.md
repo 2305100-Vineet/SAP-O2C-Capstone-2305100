@@ -2,7 +2,7 @@
 
 ---
 
-## 👤 Student Details
+##  Student Details
 
 | Field | Details |
 |-------|---------|
