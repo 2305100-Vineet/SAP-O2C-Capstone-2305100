@@ -110,7 +110,7 @@ Delivery document triggers warehouse picking and packing. Post Goods Issue (PGI)
 
 VF01 generates the customer invoice, posting Accounts Receivable (Dr) and Revenue (Cr) simultaneously in FI. The output determination framework auto-generates the invoice PDF. Payment received via F-28 clears the open AR item, completing the O2C cycle.
 
-> ✅ Complete document chain: **Inquiry → Quotation → Sales Order → Delivery → PGI → Invoice → Payment** — permanently linked and auditable in SAP.
+
 
 ---
 
